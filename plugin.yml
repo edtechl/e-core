@@ -1,0 +1,11 @@
+name: e-core
+version: 1.0
+commands:
+  heal:
+  feed:
+  egg:
+  snowball:
+  arrow:
+  enderchest:
+  flyon:
+  flyoff:
